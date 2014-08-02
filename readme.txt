@@ -7,3 +7,5 @@ Date:20140801
 add
 add1
 create branch dev
+
+creating a new branch is quick & simple;
